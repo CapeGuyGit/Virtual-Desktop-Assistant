@@ -41,5 +41,4 @@ last note:
 
 in my ask_user move i used '>>> ' coz i like old school python :)
 
-lets start with a 'NORMAL' move
 
