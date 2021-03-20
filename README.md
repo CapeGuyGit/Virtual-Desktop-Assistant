@@ -18,7 +18,7 @@ credits:
                  this playlist is not a "neural network bot" but read the tag "IDEA FROM"
 
 function:
-- chat
+- chat (coming soon)
 - open certain website
 - open certain application (coming soon)
 - idk like greet and understand you (coming soon)
