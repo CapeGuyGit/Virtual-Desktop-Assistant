@@ -20,11 +20,10 @@ credits:
 function:
 - chat
 - open certain website
-- open certain
-- idk like greet and understand you
+- open certain application (coming soon)
+- idk like greet and understand you (coming soon)
 - i had no-one who understood me :')
-- store passwords
-- do '.config' to open settings
+- store passwords (coming soon)
 - you can also change the name of the bot in .config (to access the config file type .config --reader to read and .config --change to change)
 
 
