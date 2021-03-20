@@ -15,7 +15,7 @@ credits:
                 https://www.youtube.com/watch?v=wypVcNIH6D4&list=PLzMcBGfZo4-ndH9FoC4YWHGXG5RZekt-Q
 
             note:
-                 this playlist is "neural network bot" but read the tag "IDEA FROM"
+                 this playlist is not a "neural network bot" but read the tag "IDEA FROM"
 
 function:
 - chat
